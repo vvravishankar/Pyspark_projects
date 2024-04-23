@@ -1,4 +1,4 @@
-# Restaurant_Pyspark_project
+# Pyspark_project
 - We have Covered End to End PySpark Project 
 - PySpark Project Example
 - Databricks PySpark Project 
