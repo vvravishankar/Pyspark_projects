@@ -4,4 +4,4 @@
 - Databricks PySpark Project 
 
 we have Business requirements and we want to do data cleaning and processing using PySpark in databricks Environment.
-we have discussed how we work in real time in databricks and PySpark 
+we will discussed how we  work in real time in databricks and PySpark 
