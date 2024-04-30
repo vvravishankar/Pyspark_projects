@@ -1,0 +1,52 @@
+<university>
+    <college>
+        <name>Engineering College</name>
+        <department>
+            <name>Computer Science</name>
+            <course>
+                <name>Bachelor of Engineering</name>
+                <year>First Year</year>
+            </course>
+            <course>
+                <name>Master of Science</name>
+                <year>Second Year</year>
+            </course>
+        </department>
+        <department>
+            <name>Electrical Engineering</name>
+            <course>
+                <name>Bachelor of Engineering</name>
+                <year>First Year</year>
+            </course>
+            <course>
+                <name>Master of Science</name>
+                <year>Second Year</year>
+            </course>
+        </department>
+    </college>
+    <college>
+        <name>Arts College</name>
+        <department>
+            <name>Literature</name>
+            <course>
+                <name>Bachelor of Arts</name>
+                <year>First Year</year>
+            </course>
+            <course>
+                <name>Master of Arts</name>
+                <year>Second Year</year>
+            </course>
+        </department>
+        <department>
+            <name>History</name>
+            <course>
+                <name>Bachelor of Arts</name>
+                <year>First Year</year>
+            </course>
+            <course>
+                <name>Master of Arts</name>
+                <year>Second Year</year>
+            </course>
+        </department>
+    </college>
+</university>
